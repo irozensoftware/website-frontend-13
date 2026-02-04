@@ -1,8 +1,8 @@
 @import "tailwindcss";
 /* --color-primary-base: #064c50; */
 @theme inline {
-  --color-primary-base: #f2845a;
-  --color-primary-muted: #f2855a04;
+  --color-primary-base: #cea452;
+  --color-primary-muted: #cea5523b;
   --color-black-base: #242424;
   --color-black-muted: #7A7A7A;
   --color-red-base: #e22d2d;
